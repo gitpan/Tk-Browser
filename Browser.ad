@@ -1,0 +1,15 @@
+!!
+!!  $Id: Browser.ad,v 1.3 2004/02/14 13:14:35 kiesling Exp $
+!!  Example Tk::Browser X resources.  Add to ~/.Xresources, 
+!!  ~/.Xdefaults, or copy to ~/Browser.
+!!
+Browser*font: *-courier-medium-r-*-*-12-*
+Browser*geometry: 650x650
+Browser*Dialog*font: *-helvetica-medium-r-*-*-12-*
+Browser*TextUndo*font: *-courier-medium-r-*-*-12-*
+Browser*Text*background: white
+Browser*Listbox*font: *-courier-medium-r-*-*-12-*
+Browser*Menu*font: *-helvetica-medium-r-*-*-12-*
+Browser*Menu*background: lightblue
+Browser*Button*font: *-helvetica-medium-r-*-*-12-*
+
